@@ -4,10 +4,10 @@ subtitle: التقنية بلا حدود
 image: /img/home-jumbotron.jpg
 blurb:
     heading: مدونات التقنية العربية
-    text: "مدونات التقنية العربية في انتشار شاسع في السنوات الماضية، هنا في هذا الموقع التقني البسيط سنستعرض لكم بعض اهم المقالات التقنية المفيدة الخاصة في الايفون و الايباد و العملات الرقمية (ماك عربي)[https://mac3rbi.com]"
+    text: "مدونات التقنية العربية في انتشار شاسع في السنوات الماضية، هنا في هذا الموقع التقني البسيط سنستعرض لكم بعض اهم المقالات التقنية المفيدة الخاصة في الايفون و الايباد و العملات الرقمية "
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "الهواتف الذكية"
+    text: "الهواتف الذكية تعتبر من طفرات التقنية الالكترونية من بعد الكشف عن هاتف الايفون تغير العالم بشكل كبير في كافة المجالات التقنية ! لم يعد العالم كما السابق"
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
