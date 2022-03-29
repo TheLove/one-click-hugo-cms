@@ -1,10 +1,10 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "مدونات التقنية العربية"
+subtitle: التقنية بلا حدود
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: مدونات التقنية العربية
+    text: "مدونات التقنية العربية في انتشار شاسع في السنوات الماضية، هنا في هذا الموقع التقني البسيط سنستعرض لكم بعض اهم المقالات التقنية المفيدة الخاصة في الايفون و الايباد و العملات الرقمية (ماك عربي)[https://mac3rbi.com]"
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
